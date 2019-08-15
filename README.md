@@ -1,2 +1,2 @@
 # fake-artist-setup
-Programatic game setup for a Fake Artist Goes to New York
+Programmatic game setup for a Fake Artist Goes to New York
